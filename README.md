@@ -47,5 +47,7 @@
   <a href = "mailto:turdibekdev05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <br>  
   <a href="https://www.linkedin.com/in/turdibek-jumabaev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+  <a href="https://www.linkedin.com/in/turdibek-jumabaev" target="_blank"><img src="https://img.shields.io/badge/-StackoverFlow-%230077B5?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a> 
 
 </div>
