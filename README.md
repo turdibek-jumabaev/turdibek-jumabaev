@@ -36,7 +36,7 @@
 <br>
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibek-jumabaev&theme=tokyonight_duo&hide_border=true" />
 </div>
 
 <br>  
