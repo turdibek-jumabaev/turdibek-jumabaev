@@ -3,6 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <br>
+
+<!-- <p align="center">
+  <a href="https://github.com/nurbekdev/readmeda-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=19&width=403&height=60&lines=Python+Aiogram+Django+pyTelegramBotAPI"></a>
+</p>
+
+<br> -->
+
 <div align="center">
   <a href="https://github.com/turdibek-jumabaev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turdibek-jumabaev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
